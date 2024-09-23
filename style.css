@@ -1,0 +1,17 @@
+body {
+    background-color: #aedbe3;
+}
+.box {
+    background-color: #64349b;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    width: 50%;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+
+.row {
+    display:flex;
+
+}
